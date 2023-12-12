@@ -38,7 +38,7 @@ body, .snake
 }
 #instruction-text{
     position: absolute;
-    top:63%;
+    top:65%;
     width: 300px;
     text-align: center;
     text-transform: capitalize;
